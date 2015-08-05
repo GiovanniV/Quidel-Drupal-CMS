@@ -1,0 +1,16 @@
+[24-Aug-2014 22:23:37] WARNING: [pool www] 'user' directive is ignored when FPM is not running as root
+[24-Aug-2014 22:23:37] WARNING: [pool www] 'group' directive is ignored when FPM is not running as root
+[24-Aug-2014 22:23:37] NOTICE: fpm is running, pid 13427
+[24-Aug-2014 22:23:37] NOTICE: ready to handle connections
+[24-Aug-2014 22:23:38] NOTICE: Terminating ...
+[24-Aug-2014 22:23:38] NOTICE: exiting, bye-bye!
+[24-Aug-2014 22:24:01] WARNING: [pool www] 'user' directive is ignored when FPM is not running as root
+[24-Aug-2014 22:24:01] WARNING: [pool www] 'group' directive is ignored when FPM is not running as root
+[24-Aug-2014 22:24:01] NOTICE: fpm is running, pid 13827
+[24-Aug-2014 22:24:01] NOTICE: ready to handle connections
+[24-Aug-2014 22:24:16] NOTICE: Terminating ...
+[24-Aug-2014 22:24:16] NOTICE: exiting, bye-bye!
+[24-Aug-2014 22:24:16] WARNING: [pool www] 'user' directive is ignored when FPM is not running as root
+[24-Aug-2014 22:24:16] WARNING: [pool www] 'group' directive is ignored when FPM is not running as root
+[24-Aug-2014 22:24:16] NOTICE: fpm is running, pid 14102
+[24-Aug-2014 22:24:16] NOTICE: ready to handle connections

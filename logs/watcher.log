@@ -1,0 +1,24 @@
+Sun, 24 Aug 2014 22:24:10 watcher: [INFO] No watchers for binding 65b286e9477b44dba4175343839649db. Exiting.
+Sun, 24 Aug 2014 22:24:25 watcher: [INFO] No watchers for binding 65b286e9477b44dba4175343839649db. Exiting.
+Sun, 24 Aug 2014 22:24:35 watcher: [INFO] No watchers for binding 65b286e9477b44dba4175343839649db. Exiting.
+Sun, 24 Aug 2014 22:24:44 watcher: [INFO] No watchers for binding 65b286e9477b44dba4175343839649db. Exiting.
+Sun, 24 Aug 2014 22:24:50 watcher: [INFO] Binding 65b286e9477b44dba4175343839649db is watched by 1 users..
+Sun, 24 Aug 2014 22:24:50 watcher: [INFO] Service initialized. Sending difference.
+Sun, 24 Aug 2014 22:24:50 watcher: [INFO] Watching /srv/bindings/65b286e9477b44dba4175343839649db/code and it's sub-directories.
+Sun, 24 Aug 2014 22:27:25 watcher: [INFO] Binding 65b286e9477b44dba4175343839649db is watched by 1 users..
+Sun, 24 Aug 2014 22:27:25 watcher: [INFO] Service initialized. Sending difference.
+Sun, 24 Aug 2014 22:27:25 watcher: [INFO] Watching /srv/bindings/65b286e9477b44dba4175343839649db/code and it's sub-directories.
+Sun, 24 Aug 2014 22:30:11 watcher: [INFO] Binding 65b286e9477b44dba4175343839649db is watched by 1 users..
+Sun, 24 Aug 2014 22:30:11 watcher: [INFO] Service initialized. Sending difference.
+Sun, 24 Aug 2014 22:30:12 watcher: [INFO] Watching /srv/bindings/65b286e9477b44dba4175343839649db/code and it's sub-directories.
+Sun, 24 Aug 2014 22:30:12 watcher: [INFO] Event IN_CLOSE_WRITE added for /srv/bindings/65b286e9477b44dba4175343839649db/code/sites/default/settings.php
+Sun, 24 Aug 2014 22:30:12 watcher: [INFO] Event IN_DELETE added for /srv/bindings/65b286e9477b44dba4175343839649db/code/sites/default/settings.php
+Sun, 24 Aug 2014 22:30:12 watcher: [INFO] Event IN_MOVED_TO added for /srv/bindings/65b286e9477b44dba4175343839649db/code/sites/default/settings.php
+Sun, 24 Aug 2014 22:30:13 watcher: [INFO] Flushing 3 events.
+Sun, 24 Aug 2014 22:30:13 watcher: [INFO] Event IN_CLOSE_WRITE added for /srv/bindings/65b286e9477b44dba4175343839649db/code/sites/default/settings.php
+Sun, 24 Aug 2014 22:30:13 watcher: [INFO] Event IN_DELETE added for /srv/bindings/65b286e9477b44dba4175343839649db/code/sites/default/settings.php
+Sun, 24 Aug 2014 22:30:14 watcher: [INFO] Flushing 2 events.
+Sun, 24 Aug 2014 22:35:44 watcher: [INFO] Event IN_MOVED_TO added for /srv/bindings/65b286e9477b44dba4175343839649db/code/sites/default/settings.php
+Sun, 24 Aug 2014 22:35:44 watcher: [INFO] Event IN_CLOSE_WRITE added for /srv/bindings/65b286e9477b44dba4175343839649db/code/sites/default/settings.php
+Sun, 24 Aug 2014 22:35:44 watcher: [INFO] Event IN_DELETE added for /srv/bindings/65b286e9477b44dba4175343839649db/code/sites/default/settings.php
+Sun, 24 Aug 2014 22:35:45 watcher: [INFO] Flushing 3 events.

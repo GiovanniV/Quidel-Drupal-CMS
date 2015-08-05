@@ -1,0 +1,1 @@
+2014/08/24 22:24:02 [error] 13843#0: *1 directory index of "/srv/bindings/65b286e9477b44dba4175343839649db/code/" is forbidden, client: 54.227.155.135, server: , request: "GET / HTTP/1.1", host: "162.209.59.9:14335"
